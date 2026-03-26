@@ -1,0 +1,11 @@
+Payment Attempt = 1
+InitiatePayment failed at: IPaymentGateway
+Payment Attempt = 2
+InitiatePayment failed at: IPaymentGateway
+Payment Attempt = 3
+Payment success full with attempt = 3
+-----------------
+Payment Attempt = 1
+InitiatePayment failed at: IPaymentGateway
+Payment Attempt = 2
+Payment success full with attempt = 2

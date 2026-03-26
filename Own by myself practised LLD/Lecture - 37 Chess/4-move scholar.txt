@@ -1,0 +1,70 @@
+chess structure
+
+-------------------------------------
+      00    01    02    03    04    05    06    07    
+
+00    WR    WH    WB    WQ    WK    WB    WH    WR    
+
+01    WP    WP    WP    WP    WP    WP    WP    WP    
+
+02    --    --    --    --    --    --    --    --    
+
+03    --    --    --    --    --    --    --    --    
+
+04    --    --    --    --    --    --    --    --    
+
+05    --    --    --    --    --    --    --    --    
+
+06    BP    BP    BP    BP    BP    BP    BP    BP    
+
+07    BR    BH    BB    BQ    BK    BB    BH    BR    
+
+-------------------------------------
+
+
+common 4-move checkmate sequence (Scholar's Mate) with the coordinates in your format:
+
+Move 1:
+- White: fromRow=01, fromCol=04, toRow=03, toCol=04 (Pawn from E2 to E4)
+- Black: fromRow=06, fromCol=04, toRow=04, toCol=04 (Pawn from E7 to E5)
+
+Move 2:
+- White: fromRow=00, fromCol=05, toRow=03, toCol=02 (Bishop from F1 to C4)
+- Black: fromRow=06, fromCol=03, toRow=05, toCol=03 (Pawn from D7 to D6)
+
+Move 3:
+- White: fromRow=00, fromCol=03, toRow=03, toCol=06 (Queen from D1 to H5)
+- Black: fromRow=07, fromCol=06, toRow=05, toCol=05 (Knight from G8 to F6)
+
+Move 4:
+- White: fromRow=03, fromCol=06, toRow=05, toCol=04 (Queen from H5 to F7 checkmate)
+
+This is a basic Scholar's Mate sequence adapted to your coordinate system.
+
+-------------------------------------
+
+move1:
+1 4 3 4
+6 4 4 4
+
+move2:
+0 5 3 2
+6 3 5 3
+
+move3:
+0 3 3 6
+7 6 5 5
+
+move4:
+3 6 5 4
+
+-------------------------------------
+codeforces format
+
+1 4 3 4
+6 4 4 4
+0 5 3 2
+6 3 5 3
+0 3 3 6
+7 6 5 5
+3 6 5 4

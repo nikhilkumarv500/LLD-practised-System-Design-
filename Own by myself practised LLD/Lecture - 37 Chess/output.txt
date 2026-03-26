@@ -1,0 +1,176 @@
+-------------------------------------
+      00    01    02    03    04    05    06    07    
+
+00    WR    WH    WB    WQ    WK    WB    WH    WR    
+
+01    WP    WP    WP    WP    WP    WP    WP    WP    
+
+02    --    --    --    --    --    --    --    --    
+
+03    --    --    --    --    --    --    --    --    
+
+04    --    --    --    --    --    --    --    --    
+
+05    --    --    --    --    --    --    --    --    
+
+06    BP    BP    BP    BP    BP    BP    BP    BP    
+
+07    BR    BH    BB    BQ    BK    BB    BH    BR    
+
+-------------------------------------
+
+Its user turn = AAA [color= WHITE]
+Enter from and to row-col = 
+Entered coordinates
+1 4 3 4
+-------------------------------------
+      00    01    02    03    04    05    06    07    
+
+00    WR    WH    WB    WQ    WK    WB    WH    WR    
+
+01    WP    WP    WP    WP    --    WP    WP    WP    
+
+02    --    --    --    --    --    --    --    --    
+
+03    --    --    --    --    WP    --    --    --    
+
+04    --    --    --    --    --    --    --    --    
+
+05    --    --    --    --    --    --    --    --    
+
+06    BP    BP    BP    BP    BP    BP    BP    BP    
+
+07    BR    BH    BB    BQ    BK    BB    BH    BR    
+
+-------------------------------------
+
+Its user turn = BBB [color= BLACK]
+Enter from and to row-col = 
+Entered coordinates
+6 4 4 4
+-------------------------------------
+      00    01    02    03    04    05    06    07    
+
+00    WR    WH    WB    WQ    WK    WB    WH    WR    
+
+01    WP    WP    WP    WP    --    WP    WP    WP    
+
+02    --    --    --    --    --    --    --    --    
+
+03    --    --    --    --    WP    --    --    --    
+
+04    --    --    --    --    BP    --    --    --    
+
+05    --    --    --    --    --    --    --    --    
+
+06    BP    BP    BP    BP    --    BP    BP    BP    
+
+07    BR    BH    BB    BQ    BK    BB    BH    BR    
+
+-------------------------------------
+
+Its user turn = AAA [color= WHITE]
+Enter from and to row-col = 
+Entered coordinates
+0 5 3 2
+-------------------------------------
+      00    01    02    03    04    05    06    07    
+
+00    WR    WH    WB    WQ    WK    --    WH    WR    
+
+01    WP    WP    WP    WP    --    WP    WP    WP    
+
+02    --    --    --    --    --    --    --    --    
+
+03    --    --    WB    --    WP    --    --    --    
+
+04    --    --    --    --    BP    --    --    --    
+
+05    --    --    --    --    --    --    --    --    
+
+06    BP    BP    BP    BP    --    BP    BP    BP    
+
+07    BR    BH    BB    BQ    BK    BB    BH    BR    
+
+-------------------------------------
+
+Its user turn = BBB [color= BLACK]
+Enter from and to row-col = 
+Entered coordinates
+6 3 5 3
+-------------------------------------
+      00    01    02    03    04    05    06    07    
+
+00    WR    WH    WB    WQ    WK    --    WH    WR    
+
+01    WP    WP    WP    WP    --    WP    WP    WP    
+
+02    --    --    --    --    --    --    --    --    
+
+03    --    --    WB    --    WP    --    --    --    
+
+04    --    --    --    --    BP    --    --    --    
+
+05    --    --    --    BP    --    --    --    --    
+
+06    BP    BP    BP    --    --    BP    BP    BP    
+
+07    BR    BH    BB    BQ    BK    BB    BH    BR    
+
+-------------------------------------
+
+Its user turn = AAA [color= WHITE]
+Enter from and to row-col = 
+Entered coordinates
+0 3 3 6
+-------------------------------------
+      00    01    02    03    04    05    06    07    
+
+00    WR    WH    WB    --    WK    --    WH    WR    
+
+01    WP    WP    WP    WP    --    WP    WP    WP    
+
+02    --    --    --    --    --    --    --    --    
+
+03    --    --    WB    --    WP    --    WQ    --    
+
+04    --    --    --    --    BP    --    --    --    
+
+05    --    --    --    BP    --    --    --    --    
+
+06    BP    BP    BP    --    --    BP    BP    BP    
+
+07    BR    BH    BB    BQ    BK    BB    BH    BR    
+
+-------------------------------------
+
+Its user turn = BBB [color= BLACK]
+Enter from and to row-col = 
+Entered coordinates
+7 6 5 5
+-------------------------------------
+      00    01    02    03    04    05    06    07    
+
+00    WR    WH    WB    --    WK    --    WH    WR    
+
+01    WP    WP    WP    WP    --    WP    WP    WP    
+
+02    --    --    --    --    --    --    --    --    
+
+03    --    --    WB    --    WP    --    WQ    --    
+
+04    --    --    --    --    BP    --    --    --    
+
+05    --    --    --    BP    --    BH    --    --    
+
+06    BP    BP    BP    --    --    BP    BP    BP    
+
+07    BR    BH    BB    BQ    BK    BB    --    BR    
+
+-------------------------------------
+
+Its user turn = AAA [color= WHITE]
+Enter from and to row-col = 
+Entered coordinates
+3 6 5 4
+AAA   wins ++++++++++++++++++++++++++++++++++++++++++

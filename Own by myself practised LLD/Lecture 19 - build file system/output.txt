@@ -1,0 +1,20 @@
+--------------------
+Folder = Folder-2
+file4
+file5
+file6
+--------------------
+--------------------
+Folder = Root
+File = file1
+File = file2
+File = file3
+--------------------
+Folder = Folder-2
+File = file4
+File = file5
+File = file6
+--------------------
+--------------------
+3
+6

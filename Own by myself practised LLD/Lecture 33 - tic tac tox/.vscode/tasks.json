@@ -1,0 +1,22 @@
+// {
+//     "version": "2.0.0",
+//     "tasks": [
+//         {
+//             "label": "Compile and Run",
+//             "type": "shell",
+//             "command": "cmd.exe",
+//             "args": [
+//                 "/c",
+//                 "javac -d .bin Code.java && java -cp .bin Code < input.txt > output.txt"
+//             ],
+//             "group": {
+//                 "kind": "build",
+//                 "isDefault": true
+//             },
+//             "problemMatcher": [],
+//             "presentation": {
+//                 "reveal": "always"
+//             }
+//         }
+//     ]
+// }

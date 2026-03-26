@@ -1,0 +1,14 @@
+﻿External Bluetooth: song-2
+Song paused = song-2
+Playlist created = Playlist-1
+---------------------
+Traversal = RANDOM
+Song [title=song-4, path=C:\music\song4]
+
+Song [title=song-4, path=C:\music\song4]
+
+Song [title=song-2, path=C:\music\song2]
+
+Song [title=song-3, path=C:\music\song3]
+
+---------------------

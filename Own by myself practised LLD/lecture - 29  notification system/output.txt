@@ -1,0 +1,12 @@
+﻿List:
+10 2 30 4 50 
+
+Linked list:
+10 2 30 4 50 
+
+stack iterative inorder
+4 2 5 1 6 7 8 3 
+recursive inorder
+4 2 5 1 6 7 8 3 
+Binary Tree using iterator:
+4 2 5 1 6 7 8 3 

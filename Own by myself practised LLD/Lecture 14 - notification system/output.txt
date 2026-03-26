@@ -1,0 +1,5 @@
+Console log:  [1:39PM]  [Signatiure] Simple-text-1
+
+Console log:  [1:39PM]  [Signatiure] Simple-text-1
+ [strategy=email] [1:39PM]  [Signatiure] Simple-text-1
+ [strategy=sms] [1:39PM]  [Signatiure] Simple-text-1

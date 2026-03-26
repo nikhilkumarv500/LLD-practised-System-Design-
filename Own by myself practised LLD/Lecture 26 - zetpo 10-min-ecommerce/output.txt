@@ -1,0 +1,47 @@
+From dark store= Dark-Store-1
+---------------------
+Listing all products
+1   Mango   2
+2   Apple   2
+22   Rice   2
+11   Wheat   2
+---------------------
+From dark store= Dark-Store-2
+---------------------
+Listing all products
+1   Mango   2
+11   Wheat   2
+---------------------
+From dark store= Dark-Store-3
+---------------------
+Listing all products
+1   Mango   100
+11   Wheat   100
+---------------------
++++++++++++++++++=
+Item exists already: DBInventoryStore
+
+
+After replinishDarkStore = Dark-Store-3 | quantity updated for = 1
+From dark store= Dark-Store-3
+---------------------
+Listing all products
+1   Mango   500
+11   Wheat   100
+---------------------
+after replinshing darkStore-3
+From dark store= Dark-Store-3
+---------------------
+Listing all products
+1   Mango   500
+11   Wheat   100
+---------------------
++++++++++++++++++=
+delivary to Customer from = Delivarypartner-1
+Item = 1 | quantity = 2
+Item = 11 | quantity = 2
+delivary to Customer from = Delivarypartner-2
+Item = 1 | quantity = 1
+Item = 11 | quantity = 2
+delivary to Customer from = Delivarypartner-3
+Item = 11 | quantity = 1
